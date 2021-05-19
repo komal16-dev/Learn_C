@@ -3,7 +3,7 @@
 int main(){
 
 int a=10,b=20;
-a-=b;
+a -= b;
 printf("Substraction is %d",a);
 
 }
